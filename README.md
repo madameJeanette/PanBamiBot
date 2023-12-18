@@ -1,6 +1,4 @@
 ﻿# PanBamiBot
-One Pan to rule the bami!
------------------------------------
 Discord meme bot using Discord.js
 -------------------------------
 current features :
@@ -12,3 +10,6 @@ future:
 - ready check for player games
 - dadjokes
 - raid warnings
+
+-----------------------------------
+One Pan to rule the bami!
